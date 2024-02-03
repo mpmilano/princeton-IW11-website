@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/homework/</loc>
+    <lastmod>2024-02-01T19:06:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/calendar/</loc>
+    <lastmod>2024-01-30T16:49:31+00:00</lastmod>
+  </url><url>
+    <loc>https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/posts/</loc>
+    <lastmod>2024-01-30T16:34:53+00:00</lastmod>
+  </url><url>
+    <loc>https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/welcome-to-iw11/</loc>
+    <lastmod>2024-01-29T17:02:27+00:00</lastmod>
+  </url><url>
+    <loc>https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/</loc>
+  </url><url>
+    <loc>https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/categories/</loc>
+  </url><url>
+    <loc>https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/tags/</loc>
+  </url>
+</urlset>

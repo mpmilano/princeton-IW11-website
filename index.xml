@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IW 11: Wrestling with Distributed Systems</title>
+    <link>https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/</link>
+    <description>Recent content on IW 11: Wrestling with Distributed Systems</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Homework</title>
+      <link>https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/homework/</link>
+      <pubDate>Thu, 01 Feb 2024 19:06:00 +0000</pubDate>
+      <guid>https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/homework/</guid>
+      <description> due: 2/8 [paradigm overviews] due: 2/15 funding deadline </description>
+    </item>
+    <item>
+      <title>Calendar</title>
+      <link>https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/calendar/</link>
+      <pubDate>Tue, 30 Jan 2024 16:49:31 +0000</pubDate>
+      <guid>https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/calendar/</guid>
+      <description> February Mon Tues Wednes Thurs Fri Satur Sun 1 Class 11am-12:30pm 2 3 4 5 6 7 8 Class 11am-12:30pm 9 10 11 12 13 14 15 Funding Deadline Class 11am-12:30pm 16 17 18 19 20 21 22 Proposal Deadline Class 11am-12:30pm 23 24 25 26 27 28 29 Class 11am-12:30pm March Mon Tues Wednes Thurs Fri Satur Sun 1 2 3 4 5 6 7 Class 11am-12:30pm 8 9 Checkpoint Form 10 11 12 13 14 Class 11am-12:30pm 15 16 17 18 19 20 21 Class 11am-12:30pm 22 23 24 25 26 How to: talk 27 28 Class 11am-12:30pm 29 30 31 April Mon Tues Wednes Thurs Fri Satur Sun 1 2 3 4 Class 11am-12:30pm 5 6 7 8 9 How to: Paper 10 11 Class 11am-12:30pm 12 13 14 Upload Presentation 15 16 17 18 Class 11am-12:30pm 19 20 21 22 23 24 25 Class 11am-12:30pm 26 27 28 Final Report 29 30 </description>
+    </item>
+    <item>
+      <title>Posts</title>
+      <link>https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/posts/</link>
+      <pubDate>Tue, 30 Jan 2024 16:34:53 +0000</pubDate>
+      <guid>https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/posts/</guid>
+      <description>Emails sent to the class Welcome to IW11! </description>
+    </item>
+    <item>
+      <title>Welcome to Iw11</title>
+      <link>https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/welcome-to-iw11/</link>
+      <pubDate>Mon, 29 Jan 2024 17:02:27 +0000</pubDate>
+      <guid>https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/welcome-to-iw11/</guid>
+      <description>Hello all!&#xA;(TL;DR: fill out the form and check the website for more information)&#xA;I am writing to welcome you to the Independent Work Seminar on “Wrestling with Distributed Systems&amp;quot; and to introduce myself as your independent work adviser. Welcome!&#xA;Almost every major application out there is a distributed system, even things as simple as Microsoft Word or as complicated as the stock market. You interact with distributed systems when you turn on your phone, send an email or message, buy a ticket to a concert, or do almost any basic activity as part of daily life.</description>
+    </item>
+  </channel>
+</rss>
