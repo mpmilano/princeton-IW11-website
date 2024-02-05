@@ -8,11 +8,25 @@
     <language>en-us</language>
     <atom:link href="https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Funding Application</title>
+      <link>https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/funding-application/</link>
+      <pubDate>Sat, 03 Feb 2024 21:12:54 +0000</pubDate>
+      <guid>https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/funding-application/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Paradigm Overview</title>
+      <link>https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/paradigm-overview/</link>
+      <pubDate>Sat, 03 Feb 2024 21:11:44 +0000</pubDate>
+      <guid>https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/paradigm-overview/</guid>
+      <description>In this assignment, due February 8th, we asked the class to take three paradigms of cloud computing, and present a 15-minute talk on how to use each paradigm to write a distributed program.&#xA;Local-First programming In local-first programming, programmers are encouraged to write collaborative applications which share state via a limited number of &amp;ldquo;built-in&amp;rdquo; concurrent replicated data types (CRDTs). Each individual application is written from the perspective of a single client computer.</description>
+    </item>
+    <item>
       <title>Homework</title>
       <link>https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/homework/</link>
       <pubDate>Thu, 01 Feb 2024 19:06:00 +0000</pubDate>
       <guid>https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/homework/</guid>
-      <description> due: 2/8 [paradigm overviews] due: 2/15 funding deadline </description>
+      <description> due: 2/8 paradigm overviews funding application draft due: 2/15 funding deadline </description>
     </item>
     <item>
       <title>Calendar</title>
