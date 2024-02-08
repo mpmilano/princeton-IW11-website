@@ -8,6 +8,20 @@
     <language>en-us</language>
     <atom:link href="https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Project Ideas</title>
+      <link>https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/project-ideas/</link>
+      <pubDate>Thu, 08 Feb 2024 15:17:03 +0000</pubDate>
+      <guid>https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/project-ideas/</guid>
+      <description>Here&amp;rsquo;s some vague project ideas, with some basic information about which paradigms are well-suited to which ideas. I&amp;rsquo;m hopeful that this helps our brainstorming!&#xA;Local-first ideas an online collaborative editor for music, art, or anything else! a ahare-alike / buy-nothing app for arranging trades a course shopper that lets you see where your friends are enrolled a social application where you can post messages and reply to threads a collaborative application for reporting sightings of scooters Serverless ideas an online service for editing images in a predictable way a recognition pipeline for identifying items in images a continuous-integration service for compiling or checking code a compression service for removing duplicates and enforcing consistent naming in a hosted storage bucket Traditional VM ideas Most applications can be a good fit for traditional VMs&amp;mdash;including all of the above!</description>
+    </item>
+    <item>
+      <title>Collaboration Policy</title>
+      <link>https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/collaboration-policy/</link>
+      <pubDate>Thu, 08 Feb 2024 15:16:56 +0000</pubDate>
+      <guid>https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/collaboration-policy/</guid>
+      <description>Note that this policy is still under construction, and as such is subject to change&#xA;So, we need to talk about chatGPT. As a practitioner and professor, I find myself really torn about how to manage the challenge of modern generative LLMs in a university setting. On the one hand, I want to acknowledge the utility of chatGPT and copilot to solve previously-intractable problems, and their ubiquity in industry today. On the other hand, we&amp;rsquo;re not trying to become promp engineers here: we&amp;rsquo;re trying to become systems engineers.</description>
+    </item>
+    <item>
       <title>Funding Application</title>
       <link>https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/funding-application/</link>
       <pubDate>Sat, 03 Feb 2024 21:12:54 +0000</pubDate>
@@ -40,7 +54,7 @@
       <link>https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/posts/</link>
       <pubDate>Tue, 30 Jan 2024 16:34:53 +0000</pubDate>
       <guid>https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/posts/</guid>
-      <description>Emails sent to the class Welcome to IW11! Funding application </description>
+      <description>Emails sent to the class Welcome to IW11! Funding application Let&amp;rsquo;s brainstorm! </description>
     </item>
     <item>
       <title>Welcome to Iw11</title>
