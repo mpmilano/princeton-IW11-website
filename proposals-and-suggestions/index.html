@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head><title>Proposals and Suggestions &ndash; IW 11: Wrestling with Distributed Systems</title>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="UTF-8"/>
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.4/css/academicons.min.css" integrity="sha512-IW0nhlW5MgNydsXJO40En2EoCkTTjZhI3yuODrZIc8cQ4h1XcF53PsqDHa09NqnkXuIe0Oiyyj171BqZFwISBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />>
+
+
+<link rel="stylesheet" href="https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/css/palettes/base16-light.css">
+<link rel="stylesheet" href="https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/css/risotto.css">
+<link rel="stylesheet" href="https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/css/custom.css">
+
+
+
+
+
+
+
+</head>
+
+    <body>
+        <div class="page">
+
+            <header class="page__header"><nav class="page__nav main-nav">
+    <ul>
+    <h1 class="page__logo"><a href="https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/" class="page__logo-inner">IW 11: Wrestling with Distributed Systems</a></h1>
+    
+    
+    <li class="main-nav__item"><a class="nav-main-item" href="https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/calendar/" title="">Calendar</a></li>
+    
+    <li class="main-nav__item"><a class="nav-main-item" href="https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/posts/" title="">Posts</a></li>
+    
+    <li class="main-nav__item"><a class="nav-main-item" href="https://edstem.org/us/courses/55478/discussion/4242291" title="">Ed</a></li>
+    
+    <li class="main-nav__item"><a class="nav-main-item" href="https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/homework/" title="">Homework</a></li>
+    
+    </ul>
+</nav>
+
+</header>
+
+            <section class="page__body">
+    <header class="content__header">
+        <h1>Proposals and Suggestions</h1>
+    </header>
+    
+    <div class="content__body">
+        <p>Hey all,</p>
+<p>It&rsquo;s proposals week! Most of you are well on your way to writing an
+excellent proposal for next week, but I still wanted to share some
+&ldquo;tips and tricks&rdquo; that will help make our proposals everything they
+can be.  Note that example proposals <em>are available</em>, but I can&rsquo;t post
+them anywhere so you&rsquo;ll need to come to me during hours to see one.</p>
+<h1 id="some-useful-tools">Some useful tools</h1>
+<p>A lot of folks are interested in getting increased visibility into
+cloud-based systems!  It may well be the case that the public cloud
+isn&rsquo;t capable of providing this for us.  If so, you might want to
+check out <a href="https://www.cloudlab.us/">CloudLab</a>, which is a
+meta-cloud&mdash;an online cloud-like service <em>for building clouds</em>.  It&rsquo;s
+pretty cool, but also leaves a lot of the control up to you&mdash;so you
+may wind up needing to do more work than you&rsquo;d otherwise expect.</p>
+<h1 id="reading-papers">Reading papers</h1>
+<p>A bunch of people have projects that will involve reading a few
+research papers to get started.  This is a daunting task&mdash;even the
+&ldquo;accessible&rdquo; systems papers can take up to 4 hours to read cover to
+cover.  Thankfully, there&rsquo;s an alternative: don&rsquo;t read the whole thing
+at once!  There&rsquo;s lots of thoughts on how to understand what parts of
+a research paper will be useful <em>without</em> just reading the whole
+thing.  My favorite resource in this space is the &ldquo;How to read a
+paper&rdquo;
+<a href="http://ccr.sigcomm.org/online/files/p83-keshavA.pdf">paper</a></p>
+<h1 id="proposals-as-a-lodestar">Proposals as a lodestar</h1>
+<p>The proposal revolves around a core idea or final deliverable: the
+thing you&rsquo;re building this semester, in one sentence.  It&rsquo;s important
+to scale this to the size of the semester, but I&rsquo;d encourage you to be
+reasonably ambitious while doing so! It&rsquo;s not a crisis if we can&rsquo;t
+reach this proposal entirely; the point of it is to set a direction,
+and to motivate the next bit:</p>
+<h1 id="proposal-sub-goals">Proposal Sub-goals</h1>
+<p>Once you have your idea of a &ldquo;lodestar&rdquo; sentence in mind, the next
+step is to divide that up into a series of smaller projects which,
+when composed, make the final whole.  These smaller projects should
+&ldquo;look complete&rdquo; on their own; it should be possible to imagine them as
+a &ldquo;final project&rdquo; for a course, or a less-ambitious IW project.  That
+means they need to have an independent deliverable, and (just as
+important!) they need to have an evaluation.  Speaking of which&hellip;</p>
+<h1 id="plan-for-evaluation">Plan for evaluation</h1>
+<p>An important part of your proposal will be your evaluation plan: how
+you expect to measure success in your project once you&rsquo;ve finished it
+(same for smaller sub-projects). The way to find a good evaluation is
+to imagine what someone would need to be convinced of your work; or
+what questions someone might ask if they&rsquo;re deciding to &ldquo;buy&rdquo; your
+product at the end of the semester.  These can start quite vague! For
+example, an &ldquo;evaluation question&rdquo; might be &ldquo;is your application going
+to work on my older phone&rdquo; or &ldquo;will your infrastructure layer slow
+down my workload.&rdquo;</p>
+<p>Once you have an idea of these questions, you need to try and
+understand how you&rsquo;d answer them&mdash;and what particular metrics or
+features you could cite in order to do so.  For example, you might
+answer &ldquo;will this work on an old phone&rdquo; by suggesting that the memory
+usage never exceeds a certain threshold, and that the processor load
+stays under a certain percentage.  Or, you could answer &ldquo;will this
+slow my workload down&rdquo; by promising that the request latency will
+never increase by more than 5ms, or that the added load on the system
+doesn&rsquo;t scale with request rate.</p>
+<p>What these thresholds then do is tell you what your evaluation needs
+to measure&mdash;memory usage, processor load, request latency, or
+anything else!</p>
+<p><strong>This measurement is your evaluation</strong></p>
+<p>Your evaluation will consist of performing these measurements, and
+reporting them.  To accurately get an idea of what these metrics will
+mean under real-world scenario, you&rsquo;ll want to vary the circumstances
+under which you collect particular metrics.  For example, when
+measuring memory pressure, you could change overall load on the
+system, number of connected clients, size of the available heap, or
+any other aspect of your system that naturally changes over time or
+across users.  This will give us a sense of how your system scales.</p>
+<p>An ideal evaluation would then compare this measurement against a
+baseline of other tools in this space which solve similar (or even
+identical) problems.  Not all projects are suited to this sort of
+comparison, however.</p>
+
+    </div>
+    <footer class="content__footer"></footer>
+
+            </section>
+
+            <section class="page__aside">
+                <div class="aside__about">
+
+<ul class="aside__social-links">
+    
+</ul>
+</div>
+                <hr>
+                <div class="aside__content">
+    
+    
+        <p>
+            
+            2024-02-15
+        </p>
+    
+
+    
+
+                </div>
+            </section>
+
+            <footer class="page__footer"><p>
+    
+    
+    
+    
+    
+    
+      
+    
+      
+    
+      
+    
+      
+    
+    
+    
+</p>
+<br /><br />
+<p class="copyright"></p>
+<p class="advertisement">Powered by <a href="https://gohugo.io/">hugo</a> and <a href="https://github.com/joeroe/risotto">risotto</a>.</p>
+</footer>
+
+        </div>
+    </body>
+
+</html>

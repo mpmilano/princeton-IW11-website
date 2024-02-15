@@ -8,6 +8,20 @@
     <language>en-us</language>
     <atom:link href="https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Two-Week Planning</title>
+      <link>https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/two-week-planning/</link>
+      <pubDate>Thu, 15 Feb 2024 18:27:46 +0000</pubDate>
+      <guid>https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/two-week-planning/</guid>
+      <description>One of the main recurring assignments we will have in this course is the two-week plan. In summary: while the proposal allows you to understand where your project should be towards the end of the semester, it does a poor job of telling you what you should be doing on any given day in order to succeed. To address this, we&amp;rsquo;re introducing a mandatory planning exercise for class:&#xA;Write a plan for the next two weeks</description>
+    </item>
+    <item>
+      <title>Proposals and Suggestions</title>
+      <link>https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/proposals-and-suggestions/</link>
+      <pubDate>Thu, 15 Feb 2024 18:00:25 +0000</pubDate>
+      <guid>https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/proposals-and-suggestions/</guid>
+      <description>Hey all,&#xA;It&amp;rsquo;s proposals week! Most of you are well on your way to writing an excellent proposal for next week, but I still wanted to share some &amp;ldquo;tips and tricks&amp;rdquo; that will help make our proposals everything they can be. Note that example proposals are available, but I can&amp;rsquo;t post them anywhere so you&amp;rsquo;ll need to come to me during hours to see one.&#xA;Some useful tools A lot of folks are interested in getting increased visibility into cloud-based systems!</description>
+    </item>
+    <item>
       <title>Welcome Veronika Brainstorming</title>
       <link>https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/welcome-veronika-brainstorming/</link>
       <pubDate>Thu, 08 Feb 2024 15:51:10 +0000</pubDate>
@@ -47,21 +61,21 @@
       <link>https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/homework/</link>
       <pubDate>Thu, 01 Feb 2024 19:06:00 +0000</pubDate>
       <guid>https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/homework/</guid>
-      <description> due: 2/8 paradigm overviews funding application draft due: 2/15 funding deadline </description>
+      <description> due: 2/8 paradigm overviews funding application draft due: 2/15 funding deadline due: 2/22 The proposal document two-week plan due: 2/29 two-week plan due: 3/7 two-week plan due: 3/14 two-week plan due: 3/21 two-week plan due: 3/28 two-week plan due: 4/4 two-week plan due: 4/11 two-week plan </description>
     </item>
     <item>
       <title>Calendar</title>
       <link>https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/calendar/</link>
       <pubDate>Tue, 30 Jan 2024 16:49:31 +0000</pubDate>
       <guid>https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/calendar/</guid>
-      <description> February Mon Tues Wednes Thurs Fri Satur Sun 1 Class 11am-12:30pm 2 3 4 5 6 7 8 homework Class 11am-12:30pm 9 10 11 12 13 14 15 Funding Deadline Class 11am-12:30pm 16 17 18 19 20 21 22 Proposal Deadline Class 11am-12:30pm 23 24 25 26 27 28 29 Class 11am-12:30pm March Mon Tues Wednes Thurs Fri Satur Sun 1 2 3 4 5 6 7 Class 11am-12:30pm 8 9 Checkpoint Form 10 11 12 13 14 Class 11am-12:30pm 15 16 17 18 19 20 21 Class 11am-12:30pm 22 23 24 25 26 How to: talk 27 28 Class 11am-12:30pm 29 30 31 April Mon Tues Wednes Thurs Fri Satur Sun 1 2 3 4 Class 11am-12:30pm 5 6 7 8 9 How to: Paper 10 11 Class 11am-12:30pm 12 13 14 Upload Presentation 15 16 17 18 Class 11am-12:30pm 19 20 21 22 23 24 25 Class 11am-12:30pm 26 27 28 Final Report 29 30 </description>
+      <description>NOTE: HOMEWORK HAS MOVED TO THE HOMEWORK PAGE&#xA;February Mon Tues Wednes Thurs Fri Satur Sun 1 Class 11am-12:30pm 2 3 4 5 6 7 8 Class 11am-12:30pm 9 10 11 12 13 14 15 Funding Deadline Class 11am-12:30pm 16 17 18 19 20 21 22 Proposal Deadline Class 11am-12:30pm 23 24 25 26 27 28 29 Class 11am-12:30pm March Mon Tues Wednes Thurs Fri Satur Sun 1 2 3 4 5 6 7 Class 11am-12:30pm 8 9 Checkpoint Form 10 11 12 13 14 Class 11am-12:30pm 15 16 17 18 19 20 21 Class 11am-12:30pm 22 23 24 25 26 How to: talk 27 28 Class 11am-12:30pm 29 30 31 April Mon Tues Wednes Thurs Fri Satur Sun 1 2 3 4 Class 11am-12:30pm 5 6 7 8 9 How to: Paper 10 11 Class 11am-12:30pm 12 13 14 Upload Presentation 15 16 17 18 Class 11am-12:30pm 19 20 21 22 23 24 25 Class 11am-12:30pm 26 27 28 Final Report 29 30 </description>
     </item>
     <item>
       <title>Posts</title>
       <link>https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/posts/</link>
       <pubDate>Tue, 30 Jan 2024 16:34:53 +0000</pubDate>
       <guid>https://www.cs.princeton.edu/courses/archive/spr24/cosIW11/posts/</guid>
-      <description>Emails sent to the class Welcome to IW11! Funding application Let&amp;rsquo;s brainstorm! Welcome Veronika; brainstorming </description>
+      <description>Emails sent to the class Welcome to IW11! Funding application Let&amp;rsquo;s brainstorm! Welcome Veronika; brainstorming Proposal Writing New Homework: 2-week plan </description>
     </item>
     <item>
       <title>Welcome to Iw11</title>
